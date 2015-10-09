@@ -1,0 +1,14 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst GoogleChrome
+cinst git
+cinst cygwin
+cinst everything
+cinst TortoiseGit
+cinst consolez
+cinst fiddler4
+cinst sublimetext3
+cinst vim
+cinst jdk7
+cinst jdk8
