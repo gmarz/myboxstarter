@@ -153,11 +153,11 @@
 		</actions>
 	</mouse>
 	<tabs>
-		<tab title="Git Bash" icon="C:\ProgramData\chocolatey\lib\ConsoleZ.1.13.0.15044\tools\icons\git.ico" use_default_icon="0">
-			<console shell="&quot;C:\Program Files (x86)\Git\bin\sh.exe&quot; --login -i " init_dir="C:\code" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="1"/>
+		<tab title="Git Bash" icon=".\icons\git.ico" use_default_icon="0">
+			<console shell="&quot;C:\Program Files\Git\bin\sh.exe&quot; --login -i " init_dir="C:\code" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="1"/>
 			<cursor style="1" r="0" g="255" b="0"/>
 		</tab>
-		<tab title="Elasticsearch" icon="C:\ProgramData\chocolatey\lib\ConsoleZ.1.13.0.15044\tools\icons\elastic.ico" use_default_icon="0">
+		<tab title="Elasticsearch" icon=".\icons\elastic.ico" use_default_icon="0">
 			<console shell="" init_dir="C:\elasticsearch" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="1"/>
 			<background type="0" r="0" g="100" b="100">
 				<image file="" relative="0" extend="0" position="0">
@@ -183,7 +183,7 @@
 				<color id="15" r="255" g="255" b="255"/>
 			</colors>
 		</tab>
-		<tab title="Visual Studio" icon="C:\ProgramData\chocolatey\lib\ConsoleZ.1.13.0.15044\tools\icons\visualstudio.ico" use_default_icon="0">
+		<tab title="Visual Studio" icon=".\icons\visualstudio.ico" use_default_icon="0">
 			<console shell="C:\Windows\SysWOW64\cmd.exe /k &quot;&quot;C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat&quot;&quot; x86" init_dir="C:\code" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="1"/>
 			<background type="0" r="45" g="0" b="45">
 				<image file="" relative="0" extend="0" position="0">
