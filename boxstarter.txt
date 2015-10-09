@@ -12,3 +12,4 @@ cinst sublimetext3
 cinst vim
 cinst jdk7
 cinst jdk8
+cinst sourcecodepro
